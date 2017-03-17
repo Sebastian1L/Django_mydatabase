@@ -109,7 +109,7 @@ TIME_ZONE = 'Europe/Warsaw'
 
 USE_I18N = True#internationalization
 
-USE_L10N = True#localization
+USE_L10N = True#localizationns
 
 USE_TZ = True
 
